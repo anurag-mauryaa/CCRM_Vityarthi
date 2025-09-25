@@ -1,0 +1,23 @@
+# Java build
+/out/
+/*.class
+*.class
+
+# Eclipse / VS Code / IDE files
+.project
+.classpath
+.settings/
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Data generated at runtime
+/ccrm_data/
+/ccrm_data_bak_*/
+/tmp/
+/*.log
+
+# Backups
+*.bak
