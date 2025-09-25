@@ -1,6 +1,6 @@
 ## `README.md`
 
-````markdown
+markdown
 # Campus Course & Records Manager (CCRM)
 
 A console-based Java SE project for managing students, courses, enrollments, grades, transcripts, and file backups.
@@ -12,7 +12,7 @@ A console-based Java SE project for managing students, courses, enrollments, gra
 - **Compile**:
   ```bash
   javac -d out $(find src -name "*.java")
-````
+
 
 * **Run**:
 
@@ -147,3 +147,4 @@ java -ea -cp out edu.ccrm.cli.MainMenu
 Developed as per VIT Bhopal Java Project specification.
 
 ```
+
